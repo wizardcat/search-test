@@ -1,0 +1,14 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Nunito", sans-serif;
+  background-color: aliceblue;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
